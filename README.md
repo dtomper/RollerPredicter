@@ -5,22 +5,15 @@
   RollerPredicter is an open-source Rollercoin prediction tool that generates a graph showing the variation of your balance over time.
 </p>
 
-<br>
-
 <h2 align="center">What can it be used for?</h2>
   - It can be used to determine how long it'll take you to reach your goal balance (though its precision depends on your consistency of playing).<br>
   - It can help you choose which miner to buy between many by visualizing what happens after you purchase each one.<br>
   (this can also be applied on a group of miners in a specific order, more info on that later where I explain how the tool works).
 
-<br>
-<br>
-
 <h2 align="center">How to Download RollerPredicter?</h2>
 
   Simply go to the [releases](https://github.com/dtomper/RollerPredicter/releases) page and download the latest version.<br>
   If you want to execute RollerPredicter directly from Python, then ```pip install -r requirements.txt``` and you're all set :)
-
-<br>
 
 <h2 align="center">How to use RollerPredicter?</h2>
 <h3>Basic Usage</h3>
