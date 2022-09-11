@@ -1,9 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/74678283/189533990-0176495e-3d9c-4129-a029-e5e842ae1f9d.png)
 
 <h2 align="center">What is RollerPredicter?</h2>
-<p align="center">
-  RollerPredicter is an open-source Rollercoin prediction tool that generates a graph showing the variation of your balance over time.
-</p>
+RollerPredicter is an open-source Rollercoin prediction tool that generates a graph showing the variation of your balance over time.
 
 <h2 align="center">What can it be used for?</h2>
   - It can be used to determine how long it'll take you to reach your goal balance (though its precision depends on your consistency of playing).<br>
