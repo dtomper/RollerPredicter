@@ -1,8 +1,4 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74678283/189533990-0176495e-3d9c-4129-a029-e5e842ae1f9d.png" alt="RollerPredicter Logo" border="0" height="320px" width="640">
-</p>
-
-<br>
+![Banner](https://user-images.githubusercontent.com/74678283/189533990-0176495e-3d9c-4129-a029-e5e842ae1f9d.png)
 
 <h2 align="center">What is RollerPredicter?</h2>
 <p align="center">
