@@ -83,6 +83,8 @@ And as you can see, the second scenario's graph is above the first one, so it's 
 
 <h3>That's it! You are now ready to rock.</h3>
 
+<br>
+
 *It took me a week to make this app, if you appreciate my hardwork and want to see more of my projects, feel free to follow me on my social media. I'm available at:*<br>
 <br>
 [<img src="https://user-images.githubusercontent.com/74678283/189550373-d9db605d-def5-45d5-8327-a1ba756066e7.png">](https://www.youtube.com/Dtomper)
