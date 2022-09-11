@@ -31,8 +31,6 @@ Unforunately, my mouse isn't showing in the screenshot, but that box shows up wh
 
 Now you're probably wondering, what the heck is a scenario? Let me first add some miners and I'll tell you ;)<br>
 
-<br>
-
 <h3>Adding Miners</h3>
 
 ![graph2](https://user-images.githubusercontent.com/74678283/189548041-c49d26d3-3839-4647-a5a2-d0a5615b9185.png)
@@ -54,8 +52,6 @@ The three miners in the picture above are:
 
 If only the last miner was a thing in Rollercoin 😩
 
-<br>
-
 <h3>Adding Scenarios</h3>
 
 Okay, so I said previously that you can use RollerPredicter to compare miners (or groups of them) in a single graph. That's where the word "scenario" comes in. The 3 miners in the picture above represent a scenario (the scenario where we buy miner 1 then 2 then 3).<br>
@@ -70,7 +66,7 @@ I created a new scenario and added the same 3 miners we added before, but I swap
 | 2 | 110 Th/s | 3 % | 7 RLT |
 | 3 | 8 Ph/s | 5 % | 5 RLT |
 
-And as you can see, the second scenario's graph is above the first one, so it's more profitable.<br>
+And as you can see, the second scenario's graph is above the first one, so it's more profitable.
 
 <h3>That's it! You are now ready to rock.</h3>
 
